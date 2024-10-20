@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Igwe0001/loopstudios](https://github.com/Igwe0001/loopstudios)
 - Live Site URL: [https://loopstudios-alpha-umber.vercel.app/](https://loopstudios-alpha-umber.vercel.app/)
+- Solution URL: [https://github.com/Igwe0001/loopstudios](https://github.com/Igwe0001/loopstudios)
 
 ## My process
 

@@ -109,7 +109,7 @@ nav {
 }
 
 .nav__list:hover::after {
-  width: 50%;
+  width: 65%;
 }
 
 .nav__link {
@@ -407,7 +407,7 @@ footer {
 }
 
 .footer__socials--image:hover::after {
-  width: 50%;
+  width: 65%;
 }
 
 .footer__copyright {
@@ -473,7 +473,7 @@ footer {
   .hero h1 {
     font-size: 8rem;
     margin: initial;
-    width: 50%;
+    max-width: 70rem;
   }
   /* Hero Styles End */
 
@@ -504,6 +504,13 @@ footer {
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(2, 1fr);
   }
+  figure {
+    transition: transform 0.2s ease;
+  }
+
+  figure:hover {
+    transform: scale(1.1);
+  }
 
   figcaption {
     top: 70%;
@@ -525,7 +532,7 @@ footer {
   /* Gallary style end */
 
   /* footer styles */
-  footer{
+  footer {
     margin-top: 7rem;
   }
 
